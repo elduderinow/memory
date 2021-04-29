@@ -1,6 +1,6 @@
 
 
-let mainDeck = ["card-a", "card-a", "card-b", "card-b", "card-c", "card-c", "card-d", "card-d", "card-e", "card-e", "card-f", "card-f", "card-g", "card-g", "card-h", "card-h", "card-i", "card-i", "card-j", "card-j", "card-k", "card-k", "card-l", "card-l", "card-m", "card-m", "card-n", "card-n"];
+let mainDeck = ["card-a", "card-a", "card-b", "card-b", "card-c", "card-c", "card-d", "card-d", "card-e", "card-e", "card-f", "card-f", "card-g", "card-g", "card-h", "card-h", "card-i", "card-i", "card-j", "card-j", "card-k", "card-k", "card-l", "card-l"];
 mainDeck = mainDeck.sort(() => Math.random() - 0.5);
 let compArr = [];
 let compData = [];
