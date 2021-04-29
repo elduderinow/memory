@@ -1,6 +1,6 @@
 # Title: Memory
 
-The momory game as we all know it.
+The memory game as we all know it.
 
 - Repository: `memory`
 - Language: HTML, SCSS, Javascript
