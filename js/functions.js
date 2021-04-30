@@ -69,7 +69,7 @@ function ifequal($btn) {
         elem.classList.add("correct");
     });
     compArr = [];
-}
+
 }
 
 //if it's not equal, turn the two last cards around.
